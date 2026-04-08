@@ -1,3 +1,4 @@
 /Report/results/*
-/Report/results_wsb/*
+/Checkpoints
+/logs
 .ipynb_checkpoints
