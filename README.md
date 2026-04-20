@@ -1,5 +1,7 @@
 # Financial Sentiment Analysis: Domain Transfer Across Social Media Registers
 
+[![View Notebook](https://img.shields.io/badge/Jupyter-View_Notebook-orange?logo=Jupyter)](https://github.com/RishabhBubna/ML_Pipeline/blob/main/IEEE_notebook.ipynb)
+
 This project investigates the transferability of financial sentiment models across linguistic domains, from curated financial Twitter data to the informal, meme-driven language of Reddit's WallStreetBets (WSB) community. The central question is whether models trained on structured financial social media text can generalize to the radically different register of retail investor discourse, and whether financial domain pretraining provides an advantage over general pretraining when adapting to social media financial text.
 
 ---
