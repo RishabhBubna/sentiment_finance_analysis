@@ -170,3 +170,7 @@ Experiments were run on an NVIDIA GTX 1650 (4GB VRAM) with fp16 mixed precision 
 ## Stack
 
 `Python` · `PyTorch` · `HuggingFace Transformers` · `HuggingFace Datasets` · `scikit-learn` · `MLflow` · `AWS` · `seaborn` · `matplotlib`
+
+---
+
+Built by Rishabh Bubna : [LinkedIn](https://www.linkedin.com/in/dr-rishabh-bubna-304bb3172/)
